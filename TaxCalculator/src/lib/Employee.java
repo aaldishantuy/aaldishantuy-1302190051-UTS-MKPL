@@ -13,21 +13,9 @@ public class Employee {
 	private String idNumber;
 	private String address;
 	
-	private int yearJoined;
-	private int monthJoined;
-	private int dayJoined;
-	private int monthWorkingInYear;
-	
 	private boolean isForeigner;
 	private boolean gender; //true = Laki-laki, false = Perempuan
 	
-	private int monthlySalary;
-	private int otherMonthlyIncome;
-	private int annualDeductible;
-	
-	private String spouseName;
-	private String spouseIdNumber;
-
 	private List<String> childNames;
 	private List<String> childIdNumbers;
 	
