@@ -90,4 +90,4 @@ public class Employee {
 		
 		return TaxFunction.calculateTax(monthlySalary, otherMonthlyIncome, monthWorkingInYear, annualDeductible, spouseIdNumber.equals(""), childIdNumbers.size());
 	}
-} 
+}  
